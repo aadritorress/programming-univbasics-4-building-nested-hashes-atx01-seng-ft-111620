@@ -1,10 +1,10 @@
 def base_hash
-  [:railroads] = []
+  hash [:railroads] = []
 
 end
 
 def monopoly_with_second_tier
- [:railroads] = []
+ hash [:railroads] = []
 
 end
 
